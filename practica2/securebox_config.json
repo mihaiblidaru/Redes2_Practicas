@@ -1,0 +1,6 @@
+{
+    "api_key": "276ea04DA13b59cf",
+    "api_base_url": "http://vega.ii.uam.es:8080/api",
+    "rsa_key_size": 2048,
+    "aes_key_size": 32
+}
